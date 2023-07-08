@@ -1,4 +1,10 @@
-# QuanLyQuanAn (Visual studio 2019)
+# QuanLyQuanAn (Visual studio 2019 or 2022)
+Hướng dẫn chạy được phần mềm:
+- Tải về và giải nén file .rar
+- Chạy file .sql
+- Thay đổi đường dẫn csdl tại Methods/XuLy_CauTruyVan.cs
+- Run phần mềm
+# Những form và chức năng trong phần mềm
 Phần Đăng nhập
 
 ![image](https://github.com/thongthai2211/QuanLyQuanAn/assets/86780616/067fe5d4-91a5-48b2-85d4-3d51ae430dd7)
