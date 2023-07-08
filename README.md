@@ -4,6 +4,8 @@ Hướng dẫn chạy được phần mềm:
 - Chạy file .sql
 - Thay đổi đường dẫn csdl tại Methods/XuLy_CauTruyVan.cs
 - Run phần mềm
+- Tài khoản admin: 1
+- Mật khẩu admin: 123
 # Những form và chức năng trong phần mềm
 Phần Đăng nhập
 
